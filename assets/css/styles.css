@@ -1,0 +1,65 @@
+.nuevoColor {
+  color: rgb(26, 42, 128);
+}
+
+@media (max-width:639px) {
+  td, th, a, p, li {
+    font-size: 0.8em;
+  }
+}
+
+@media (min-width:640px) and (max-width:767px) {
+  td, th, a, p, li {
+    font-size: 1em;
+  }
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+  td, th, a, p, li {
+    font-size: 1.2em;
+  }
+}
+
+@media (min-width:1024px) {
+  td, th, a, p, li {
+    font-size: 1.6em;
+  }
+}
+
+@media (max-width:639px) {
+  #BotonMenu, btn-close {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (min-width:640px) and (max-width:767px) {
+  #BotonMenu, btn-close {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+  #BotonMenu, btn-close {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+@media (min-width:1024px) {
+  #BotonMenu, btn-close {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+span {
+}
+
+li {
+}
+
+li {
+}
+
